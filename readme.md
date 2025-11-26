@@ -1,5 +1,21 @@
-Analog Clock
+# Analog Clock
 
-This project is an analog clock created with HTML, CSS, and JavaScript. It displays hours, minutes, and seconds in real time, and the pointers move smoothly. In the center, there is a small black dot that serves as the middel and anchor point for the pointers. The clock has four main markings 12, 3, 6 and 9 o’clock and automatically adjusts to different screen sizes.
+Das ist eine Analoge Uhr die ich selber erstellt habe. Sie passt sich selbstständig an die jetzige Zeit an und schaut dadurch das die Zeit immer stimmt.
 
-The movement of the pointers is calculated with JavaScript: hours, minutes, seconds, and milliseconds are converted into angles so that everything rotates correctly. CSS is used to style the round clock face, the pointers, the markings, and the center point.
+### Installation 
+Um die Analoge Uhr zu installieren kann man das Git Repository clonen. Man muss zuerst den Code kopieren in dem Git Repository. Danach kann man mit diesem Code das Repository clonen in der Kommandozeile.
+
+`git clone (kopierter Code)`
+
+Oder sie können die Zip Datei herunterladen. Dafür muss man zuerst auf das Repository danach kann man bei Code auf den Pfeil drücken und unten sollte stehen Download ZIP.
+
+### Verwendung 
+Um die Analoge Uhr zu starten muss man den Index in einem Browser öffnen. Dies kann man machen in dem man den Index linksklickt und danach Copy path auswählt und dies im Browser einfügt.
+
+Danach funktioniert die Analoge Uhr.
+
+### Issues melden 
+Navigieren Sie auf GitHub zur Hauptseite des Repositorys. Klicken Sie dort unter dem Repository Namen auf Issues. Klicken Sie anschliessend auf Neues Issue. Dort können sie dann ein Issue melden.
+
+### Pull Request 
+UM eine Pull Request zu erstellen muss man auf Pull Request gehen und danach auf NEW Pull Request.
